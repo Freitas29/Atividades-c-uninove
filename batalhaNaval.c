@@ -64,12 +64,12 @@ int main(){
         break;
         return 0;
       }else{
-        printf("\nTirou na agua :( \n");
+        printf("\nTiro na agua :( \n");
         matriz[shotPositionLine][shotPositionColumn] = '*';
         exibirTiroErrado();
       }
     }else{
-      printf("\nTirou na agua :( \n");
+      printf("\nTiro na agua :( \n");
       matriz[shotPositionLine][shotPositionColumn] = '*';
       exibirTiroErrado();
     }
