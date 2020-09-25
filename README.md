@@ -14,4 +14,4 @@ Esse é um repositório onde vou guardar alguns dos códigos da matéria de Estr
    [código](https://github.com/Freitas29/Atividades-c-uninove/blob/master/bubbleSort.c)
    ### Selection sort
    Deve ordenar os elementos usando o método de selection sort
-   [código]("https://github.com/Freitas29/Atividades-c-uninove/blob/master/selectionSort.c") 
+   [código](https://github.com/Freitas29/Atividades-c-uninove/blob/master/selectionSort.c) 
